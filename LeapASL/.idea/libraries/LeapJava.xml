@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="LeapJava">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/LeapSDK/lib/LeapJava.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/LeapSDK/lib/opencsv-5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/LeapSDK/lib/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/LeapSDK/lib/javafx-swt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/LeapSDK/lib/javafx.base.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/LeapSDK/lib/javafx.controls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/LeapSDK/lib/javafx.fxml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/LeapSDK/lib/javafx.graphics.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/LeapSDK/lib/javafx.media.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/LeapSDK/lib/javafx.swing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/LeapSDK/lib/javafx.web.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
